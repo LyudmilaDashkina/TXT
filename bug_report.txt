@@ -1,1 +1,2 @@
 Bug1 - The first Bug
+Bug2 - The second Bug
