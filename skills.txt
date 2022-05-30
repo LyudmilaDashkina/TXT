@@ -1,0 +1,1 @@
+Program of the course - theory, Sql, Api, JS, HTTP, Postman, Git, GitBash
