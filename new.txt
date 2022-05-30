@@ -1,0 +1,6 @@
+Name - Lyudmila
+Surname - Dashkina
+Age - 38
+Number of pets - 1
+Desired Salary - 2500$
+
